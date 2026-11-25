@@ -6,7 +6,7 @@ import random as ran
 from pygame.locals import *
 
 # global variables
-FPS = 30
+FPS = 32
 SCREENWIDTH = 289
 SCREENHEIGHT = 511
 #SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
