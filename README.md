@@ -1,8 +1,9 @@
-A simple flappy bird game written in python using pygame
+# FlapPYbird using Pygame
 
-# INSTALLATION/
-1: extract the zip \n
-2: ```console
-$python3 -m venv venv
-source venv/bin/activate
-```
+## Setup
+
+```console
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt   
+$ python main.py
